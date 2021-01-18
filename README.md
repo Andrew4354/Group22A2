@@ -1,2 +1,2 @@
-# A2TempNameRenameMe
-Grp 22 Assessment 2 repository
+# Assignment 2 Group 22.
+Hello.
