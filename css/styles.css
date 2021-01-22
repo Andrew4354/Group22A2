@@ -2,6 +2,11 @@ header{text-align: center;}
 .maintitle {font-size: 50px; padding-bottom: 15px}
 body {background-color: #d5dceb; margin-left: 400px; margin-right: 400px;}
 h2 {text-align:center; color: #3e5994}
+h1 {text-align:center; color: #3e5994}
+h3 {text-align:center; color: #3e5994}
+h4 {text-align:center; color: #3e5994}
 .headshot {float: center;display:block; margin-left: auto; margin-right: auto; width: 40%}
 .links {font-size: 20px;}
 .memberInfo {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
